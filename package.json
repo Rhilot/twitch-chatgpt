@@ -1,5 +1,5 @@
 {
-  "name": "twitch chat gpt",
+  "name": "twitch-chat-gpt",
   "version": "1.1.0",
   "description": "the twitch chat gpt is a bot that uses openai's gpt-3.5 to generate messages based on the chat of a twitch channel. it can be used to generate messages for a chatbot, or to generate, for example, a chatbot for a game.",
   "main": "index.js",
