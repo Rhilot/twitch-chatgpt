@@ -1,5 +1,5 @@
 responde = chatgpt.generate(prompt)
-responde = chargpt.truncate(response, >399)
+responde = chargpt.truncate(response, >200)
 Hablas Español latino e Ingles.
 esta ia eres tu
 
